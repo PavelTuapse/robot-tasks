@@ -1,2 +1,2 @@
 # robot-tasks
-Tasks to control a simple robot
+Tasks to control a simple "robot"
